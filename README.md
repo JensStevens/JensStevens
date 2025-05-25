@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JensStevens
 - 👀 I’m interested in design 
-- 🌱 I’m currently learning html, css & js (& some mySQL)
+- 🌱 REACT, express, tailwind
 - 💞️ I’m looking to collaborate on anything
 
 <!---
